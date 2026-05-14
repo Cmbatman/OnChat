@@ -1,0 +1,6 @@
+# Normalize line endings to LF on checkout
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
+*.webp binary

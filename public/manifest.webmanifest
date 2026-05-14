@@ -1,0 +1,18 @@
+{
+  "name": "OnChat",
+  "short_name": "OnChat",
+  "description": "Anonymous and registered realtime chat.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#315cf6",
+  "icons": [
+    {
+      "src": "/logos/onchat-icon-light.png",
+      "sizes": "816x781",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

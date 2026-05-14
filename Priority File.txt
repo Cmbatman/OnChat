@@ -1,0 +1,1457 @@
+Work only on PRIORITY 1 for OnChat.
+
+Focus on these pages/features only:
+1. Landing page `/`
+2. 1 on 1 Chat page `/app`
+3. Login page `/login`
+4. Register page `/register`
+5. Guest Start Chat flow
+6. Mobile chat layout
+7. Direct chat/bot chat should NOT redirect to Random Chat
+
+Do not work on:
+- Rooms
+- Premium
+- Ads
+- SEO/blogs
+- Analytics
+- Admin pages
+- New monetization
+- Extra features
+
+Main goal:
+Restore and stabilize the core user flow first.
+
+====================================
+1. LANDING PAGE
+====================================
+
+Fix/build the landing page as the public guest entry page.
+
+Landing sections:
+- Header
+- Hero
+- Start Chatting Now guest form
+- Online users preview
+- Feature cards
+- Rooms preview only as small teaser
+- Registered user benefits
+- Premium teaser
+- Safety section
+- Footer
+
+Landing rules:
+- If active guest/registered/premium session exists, redirect `/` to `/app`
+- Do not load full chat/realtime logic on landing
+- No Google/Gmail/social login
+- No phone/video/call icons
+- Use OnChat orange/blue/peach branding
+- Full light/dark mode support
+
+Guest form fields:
+- Username
+- Gender
+- Age
+- Country
+- State/Region
+- My Vibe Today
+
+On Start Chatting Now:
+1. Validate form
+2. Show consent modal
+3. After agree, create guest session
+4. Redirect to `/app`
+5. `/app` default must be 1 ON 1 CHAT → ONLINE USERS
+6. Do not redirect to Random Chat
+
+====================================
+2. 1 ON 1 CHAT PAGE `/app`
+====================================
+
+Default page after login/guest entry must be:
+
+1 ON 1 CHAT → ONLINE USERS
+
+Desktop layout:
+- Top bar
+- Second tab bar
+- Left Online Users sidebar
+- Right empty chat area until user selects someone
+
+Second tab bar:
+- Online Users
+- Random Chat
+- Search
+- My Chats
+- Favourites
+- Blocked Users
+
+Empty chat state:
+Title:
+“Select someone to start chatting”
+
+Subtext:
+“Choose a person from the online list, or use Random Chat to meet someone new.”
+
+Do not auto-open Random Chat.
+
+====================================
+3. ONLINE USERS SIDEBAR
+====================================
+
+Sidebar should be compact and scrollable.
+
+Show:
+- Users Online title
+- Worldwide online count
+- Gender filter: All, Men, Women, NB
+- Search users input
+- Compact user rows
+- Random Chat button
+
+Each row:
+- Avatar
+- Username
+- Age
+- State, Country
+- Online dot
+- Gender indicator
+- Vibe tag
+- Favourite icon
+- Star/golden star if applicable
+
+Clicking user:
+- Opens direct chat
+- Highlights selected user
+- Does NOT redirect to Random Chat
+
+====================================
+4. DIRECT CHAT / BOT CHAT FIX
+====================================
+
+Fix current bug:
+Clicking bots/users must NOT redirect to Random Chat.
+
+Rules:
+- User click opens direct chat
+- Bot click opens bot chat
+- Random Chat only starts when Random Chat button/tab is clicked
+- Keep directChat, selectedUser, botChat, and randomChat state separate
+
+Direct chat should show:
+- Chat header
+- Safety reminder
+- “Say hello to @username”
+- Message input
+- Send button
+
+No auto “Hi” in direct chat.
+Auto “Hi/Hello” only for Random Chat.
+
+====================================
+5. LOGIN PAGE `/login`
+====================================
+
+Login is only for registered/premium users.
+
+Fields:
+- Email or username
+- Password
+
+Include:
+- Show/hide password
+- Forgot password
+- Continue as Guest
+- Register link
+
+No:
+- Google login
+- Gmail login
+- Social login
+- KYC
+- Phone verification
+
+After login:
+- Redirect to `/app`
+- Default: 1 ON 1 CHAT → ONLINE USERS
+- Do not redirect to Random Chat
+
+====================================
+6. REGISTER PAGE `/register`
+====================================
+
+Fields:
+- Username
+- Gender
+- Age
+- Country
+- State
+- Email
+- Password
+- Confirm password
+- My Vibe Today
+
+Rules:
+- Email verification only
+- No Google/Gmail/social login
+- No KYC
+- No phone verification
+
+After successful registration:
+- Send verification email
+- Show email verification message
+
+====================================
+7. MOBILE LAYOUT
+====================================
+
+Fix mobile for:
+- Landing
+- Login
+- Register
+- 1 on 1 Chat
+- Online users
+- Direct chat
+
+Mobile app default:
+- Open Online Users list first
+- User tap opens direct chat
+- Back button returns to user list
+- Input fixed at bottom
+- No call/video/phone icons
+
+====================================
+8. THEME / CSS
+====================================
+
+Fix CSS across Priority 1 only.
+
+Must work in:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile
+
+No:
+- Broken layout
+- Raw HTML inputs
+- Unstyled buttons
+- Unreadable text
+- Collapsed main content
+- Overlapping nav bars
+
+====================================
+9. TESTING
+====================================
+
+Verify:
+- `/` works
+- `/login` works
+- `/register` works
+- `/app` works
+- Guest Start Chat redirects to `/app`
+- Login redirects to `/app`
+- `/app` opens Online Users by default
+- Direct user chat works
+- Bot chat works
+- Direct chat does not redirect to Random Chat
+- Random Chat only starts when clicked
+- Mobile layout works
+- Light/dark mode works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+
+Work only on PRIORITY 2 for OnChat.
+
+Focus only on:
+1. Online Users tab
+2. Random Chat tab
+3. Search page /app/search
+4. My Chats / History /app/my-chats
+5. Favourites /app/favorites
+6. Blocked Users /app/blocked
+7. Profile page /app/profile
+8. Settings page /app/settings
+
+Do not work on:
+- Landing page redesign
+- Login/Register
+- Rooms
+- Premium
+- Ads
+- SEO/blogs
+- Analytics
+- Admin pages
+- Monetization
+
+Keep Priority 1 stable.
+
+====================================
+1. ONLINE USERS TAB
+====================================
+
+Fix/improve Online Users tab.
+
+Must show:
+- Users Online title
+- Worldwide online count
+- Gender filter: All, Men, Women, NB
+- Search users input
+- Compact scrollable user list
+- Random Chat button
+
+Each user row:
+- Avatar
+- Username
+- Age
+- State, Country
+- Online dot
+- Gender indicator
+- My Vibe Today
+- Favourite icon
+- Star for registered
+- Golden star for premium
+- Unread badge if needed
+
+Clicking user:
+- Opens direct chat
+- Highlights selected user
+- Must NOT redirect to Random Chat
+
+====================================
+2. RANDOM CHAT TAB
+====================================
+
+Random Chat only starts when user clicks Random Chat.
+
+Rules:
+- Do not auto-start Random Chat from Online Users
+- Do not redirect bot/direct chat to Random Chat
+- Show clean Random Chat screen
+- Match with waiting random users first
+- If no random waiting user, match with available online user
+- Auto-send “Hi” or “Hello” only after random match
+- Apply first 3 message rule
+
+Buttons:
+- Start Random Chat
+- Next Random User
+- Skip
+- Leave Chat
+- Report
+- Block
+
+No call/video/phone icons.
+
+====================================
+3. SEARCH PAGE
+====================================
+
+Create/fix /app/search.
+
+Search filters:
+- Username
+- Gender
+- Age min/max
+- Country
+- State
+- My Vibe Today
+- Registered/Premium if already available
+
+Results:
+- Compact user cards/rows
+- Click user opens direct chat
+- Favourite icon
+- Star/golden star
+- No redirect to Random Chat
+
+Search must work in light/dark mode.
+
+====================================
+4. MY CHATS / HISTORY
+====================================
+
+Create/fix /app/my-chats.
+
+Show:
+- Active chats
+- Recent session chats
+- Last message preview
+- Timestamp
+- Unread count/dot
+- User avatar
+- Username
+- Online/offline status
+
+Guest:
+- Session-only history
+- Clear after logout/session timeout
+
+Registered:
+- Recent/reconnect support if already available
+
+Clicking chat:
+- Opens direct chat
+- Does not start Random Chat
+
+Content must start from top, not center.
+
+====================================
+5. FAVOURITES
+====================================
+
+Create/fix /app/favorites.
+
+Rules:
+- Favourites only for registered/premium users
+- Guests see locked state:
+  “Create an account to add favourites.”
+
+Registered/premium can:
+- View favourites
+- Remove favourite
+- Click favourite user to chat
+
+No call buttons.
+
+====================================
+6. BLOCKED USERS
+====================================
+
+Create/fix /app/blocked.
+
+Show:
+- Blocked users list
+- Avatar
+- Username
+- Age/location if available
+- Blocked date if available
+- Unblock button
+
+Rules:
+- Blocked users cannot message blocker
+- Unblock restores normal visibility
+- Works in light/dark mode
+
+====================================
+7. PROFILE PAGE
+====================================
+
+Create/fix /app/profile.
+
+Show:
+- Avatar
+- Username
+- Age
+- Gender
+- Country
+- State
+- My Vibe Today
+- Bio/status
+- Star/golden star if applicable
+
+Registered/premium:
+- Can upload profile picture
+- Can edit bio/status
+- Can edit vibe tags
+- Can edit profile details
+
+Guest:
+- Shows temporary profile
+- Cannot upload avatar
+- Cannot permanently save details
+
+No KYC.
+No phone verification.
+
+====================================
+8. SETTINGS PAGE
+====================================
+
+Create/fix /app/settings.
+
+Settings should include:
+- Theme preference
+- Account/session info
+- Edit profile shortcut
+- Privacy/safety links
+- Logout
+- Delete account option only if already supported
+
+Guest settings:
+- Show temporary session info
+- Logout/end session
+
+Registered settings:
+- Email/account info
+- Password reset link
+- Profile edit
+- Logout
+
+No Google/Gmail/social login settings.
+
+====================================
+9. CSS / THEME
+====================================
+
+Apply OnChat orange/blue/peach design.
+
+All Priority 2 pages must support:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile
+
+No:
+- Raw HTML inputs
+- Unstyled buttons
+- Broken spacing
+- Collapsed layout
+- Unreadable text
+- Call/video/phone icons
+
+====================================
+10. TESTING
+====================================
+
+Verify:
+- Online Users works
+- Random Chat only starts when clicked
+- Search filters work
+- My Chats opens direct chats
+- Favourites locked for guests
+- Blocked Users unblock works
+- Profile loads correctly
+- Settings loads correctly
+- Direct chat never redirects to Random Chat
+- Light/dark mode works
+- Mobile layout works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+Work only on PRIORITY 3 for OnChat.
+
+Focus only on:
+1. Rooms page `/app/rooms`
+2. Room chat page `/app/rooms/[roomId]`
+3. Create Room modal
+4. Premium page `/app/premium`
+
+Do not work on:
+- Landing page
+- Login/Register
+- Online Users redesign
+- Random Chat redesign
+- Ads
+- SEO/blogs
+- Analytics
+- Admin pages
+
+Keep Priority 1 and Priority 2 stable.
+
+====================================
+1. ROOMS PAGE `/app/rooms`
+====================================
+
+Create/fix the Rooms page.
+
+Show 12 pre-made rooms:
+- General Chat
+- India Chat
+- Singles Chat
+- USA Chat
+- Europe Chat
+- Asia Chat
+- Gaming Chat
+- Study Chat
+- Movies Chat
+- Sports Chat
+- Deep Talk Chat
+- Fun Chat
+
+Each room card/row should show:
+- Room icon/avatar
+- Room name
+- Short description
+- Online count
+- Join button
+
+Pre-made rooms:
+- Always available
+- Never expire
+- Mobile responsive
+- Light/dark mode support
+- Do not copy Chatib styling exactly
+
+====================================
+2. CUSTOM ROOMS
+====================================
+
+Add custom room creation.
+
+Guest users:
+- Cannot create rooms
+- Show:
+  “Create an account to make your own room.”
+
+Registered users:
+- Can create custom room
+- Max 10 people
+- Room expires after 1 day of inactivity
+- Show normal star badge
+
+Premium users:
+- Can create custom room
+- Max 280 people
+- Room expires after 1 month of inactivity
+- Show golden star badge
+
+Do not allow users to manually exceed their room limit.
+
+====================================
+3. CREATE ROOM MODAL
+====================================
+
+Create/fix Create Room modal.
+
+Fields:
+- Room name
+- Short description
+
+Auto-set max people by user type:
+- Registered = 10
+- Premium = 280
+
+Show expiry note:
+- Registered: “Expires after 1 day of inactivity.”
+- Premium: “Expires after 1 month of inactivity.”
+
+Buttons:
+- Create Room
+- Cancel
+
+Validation:
+- Room name required
+- Description optional
+- Block empty/unsafe room names
+
+====================================
+4. ROOM CHAT PAGE `/app/rooms/[roomId]`
+====================================
+
+Create/fix room chat page.
+
+Show:
+- Room header
+- Room name
+- Online/member count
+- Creator badge
+- Member list if needed
+- Room messages
+- Message input
+- Leave Room button
+
+Rules:
+- If room is full, show:
+  “This room is full.”
+- If room expired, show:
+  “This room is no longer available.”
+- Expired/inactive rooms should not be joinable.
+- No phone/video/call features.
+
+====================================
+5. ROOM INVITE FROM CHAT
+====================================
+
+Add room invite from 1-on-1 chat.
+
+Rule:
+- Invite to Room appears only after users exchange at least 15 total messages.
+
+Before 15 messages:
+- Hide or disable Invite to Room
+
+After 15 messages:
+- Show Invite to Room option
+- Invite appears as chat card
+- Receiver can Accept or Decline
+
+Invite card shows:
+- Room name
+- Creator username
+- Current members / max people
+- Accept
+- Decline
+
+====================================
+6. PREMIUM PAGE `/app/premium`
+====================================
+
+Create/fix Premium page.
+
+Show benefits:
+- Golden star badge
+- Priority visibility
+- Custom rooms up to 280 people
+- Rooms expire after 1 month inactivity
+- Premium profile styling
+- Better visibility in Online Users
+
+CTA:
+- Upgrade to Premium
+
+If billing is not ready:
+- Show premium info page only
+- Do not fake payment success
+
+====================================
+7. BACKEND / SUPABASE RULES
+====================================
+
+Backend must enforce:
+- Guests cannot create rooms
+- Registered room max = 10
+- Premium room max = 280
+- Registered room expiry = 1 day inactivity
+- Premium room expiry = 1 month inactivity
+- Full rooms cannot be joined
+- Expired rooms cannot be joined
+
+Prefer Supabase RPC for:
+- create_custom_room
+- join_room
+- leave_room
+- expire_inactive_rooms
+- get_active_rooms
+
+Do not rely only on frontend checks.
+
+====================================
+8. CSS / THEME
+====================================
+
+All Priority 3 pages/modals must support:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile
+
+No:
+- Raw HTML inputs
+- Unstyled buttons
+- Broken cards
+- Overlapping text
+- Call/video/phone icons
+
+====================================
+9. TESTING
+====================================
+
+Verify:
+- `/app/rooms` works
+- All 12 pre-made rooms show
+- Pre-made rooms do not expire
+- Registered user can create max 10-person room
+- Premium user can create max 280-person room
+- Guest cannot create room
+- Full room blocks join
+- Expired room blocks join
+- Room invite appears only after 15 messages
+- `/app/premium` works
+- Light/dark mode works
+- Mobile works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+
+Work only on PRIORITY 4 for OnChat.
+
+Focus only on public/legal/support pages:
+1. Contact `/contact`
+2. Advertise `/advertise`
+3. FAQ `/faq`
+4. Terms `/terms`
+5. Privacy `/privacy`
+6. Safety Guidelines `/safety`
+7. Cookie Policy `/cookies`
+8. Community Guidelines `/community-guidelines`
+
+Do not work on:
+- Landing redesign
+- Login/Register
+- Chat logic
+- Rooms/Premium logic
+- Admin
+- Analytics implementation
+- SEO/blogs beyond basic metadata
+
+Keep Priority 1, 2, and 3 stable.
+
+====================================
+1. CONTACT PAGE `/contact`
+====================================
+
+Create/fix Contact page.
+
+Content:
+- Title: “Contact Us”
+- Subtitle: “Need help with OnChat? Send us a message and our support team will review it.”
+
+Form fields:
+- Your name
+- Email address
+- Reason dropdown
+- Message textarea
+- CAPTCHA/anti-spam if already available
+- Send button
+- Clear button
+
+Reason options:
+- Account issue
+- Safety concern
+- Report a user
+- Login/register problem
+- Advertising inquiry
+- Feedback
+- Technical issue
+- Other
+
+Add support card:
+Title: “OnChat Support”
+Text: “For safety concerns, account issues, moderation questions, or technical problems, contact the OnChat support team.”
+
+====================================
+2. ADVERTISE PAGE `/advertise`
+====================================
+
+Create/fix Advertise page.
+
+Title:
+“Promote Your Brand on OnChat”
+
+Sections:
+- Why Advertise on OnChat
+- Ad Types Available
+- Audience Snapshot
+- Ad Placement Preview
+- Safety for Advertisers
+- Contact Sales CTA
+
+Ad placements:
+- Homepage banners
+- Sidebar banners
+- Mobile banners
+- Sticky footer placements
+- Sponsored rooms
+- Sponsored profile visibility
+- Sponsored regional placement
+
+Important:
+- Do not use fake numbers.
+- Use: “Live audience data will be available after launch.”
+
+====================================
+3. FAQ PAGE `/faq`
+====================================
+
+Create/fix FAQ page.
+
+FAQ topics:
+- What is OnChat?
+- Do I need to register?
+- How do I start chatting?
+- How does Random Chat work?
+- How do rooms work?
+- How do I report/block someone?
+- Is OnChat 18+ only?
+- What happens to guest chat history?
+- What are registered user benefits?
+- What are premium benefits?
+- How do I contact support?
+
+====================================
+4. TERMS PAGE `/terms`
+====================================
+
+Create/fix Terms of Service page.
+
+Must cover:
+- About OnChat
+- 18+ requirement
+- Guest use
+- Optional registered accounts
+- Premium users
+- User conduct
+- Chat rules
+- No links/spam/abuse
+- Moderation/enforcement
+- Reporting/blocking
+- User content
+- Profiles/avatars
+- Rooms/custom rooms
+- Service availability
+- Account termination
+- Liability disclaimer
+- Contact
+
+====================================
+5. PRIVACY PAGE `/privacy`
+====================================
+
+Create/fix Privacy Policy page.
+
+Must cover:
+- Information collected
+- Guest session data
+- Registered account data
+- Profile data
+- Chat/message data
+- Technical data
+- Cookies/local storage
+- IP/security data
+- How data is used
+- Moderation/safety processing
+- Blocking/reporting
+- Advertising/analytics if enabled
+- Data retention
+- Account deletion
+- 18+ / children privacy
+- Contact
+
+====================================
+6. SAFETY PAGE `/safety`
+====================================
+
+Create/fix Safety Guidelines page.
+
+Must cover:
+- 18+ only
+- Never share personal info
+- No links/phishing
+- No harassment/abuse
+- No explicit first messages
+- No spam
+- Image safety
+- Blocking/reporting tools
+- Meeting strangers offline warning
+- Parents/guardians note
+- Emergency note
+- Contact support
+
+====================================
+7. COOKIE POLICY `/cookies`
+====================================
+
+Create/fix Cookie Policy page.
+
+Must cover:
+- Essential cookies
+- Preference cookies
+- Analytics cookies
+- Advertising cookies
+- Local/session storage
+- Anti-spam/security cookies
+- Managing cookies
+- Do Not Track note
+- Contact
+
+====================================
+8. COMMUNITY GUIDELINES `/community-guidelines`
+====================================
+
+Create/fix Community Guidelines page.
+
+Must cover:
+- Be respectful
+- No harassment
+- No hate speech
+- No explicit content in first messages
+- No spam
+- No links
+- No scams
+- No fake profiles
+- No underage users
+- No unsafe image uploads
+- Use report/block tools
+
+====================================
+9. FOOTER LINKS
+====================================
+
+Add/update footer links to include:
+- Contact
+- Advertise
+- FAQ
+- Terms
+- Privacy
+- Safety Guidelines
+- Cookie Policy
+- Community Guidelines
+
+Footer must work on:
+- Landing
+- Login/Register if footer exists
+- Public pages
+- Legal pages
+
+====================================
+10. DESIGN / THEME
+====================================
+
+All Priority 4 pages must support:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile
+
+Use OnChat orange/blue/peach branding.
+
+No:
+- Raw HTML styling
+- Broken spacing
+- Unreadable text
+- Call/video/phone icons
+- Fake metrics
+
+====================================
+11. BASIC METADATA
+====================================
+
+Add basic metadata:
+- title
+- description
+
+For:
+- /contact
+- /advertise
+- /faq
+- /terms
+- /privacy
+- /safety
+- /cookies
+- /community-guidelines
+
+====================================
+12. TESTING
+====================================
+
+Verify:
+- All pages open
+- Footer links work
+- Forms are styled
+- Light mode works
+- Dark mode works
+- Mobile works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+
+```text id="pr5cmd"
+Work only on PRIORITY 5 for OnChat.
+
+Focus only on SEO/growth pages:
+1. Blog page `/blog`
+2. Blog article page `/blog/[slug]`
+3. Anonymous Chat page `/anonymous-chat`
+4. Free Chat Rooms page `/free-chat-rooms`
+5. Random Chat SEO page `/random-chat`
+
+Do not work on:
+- Landing redesign
+- Login/Register
+- Chat logic
+- Rooms backend
+- Premium billing
+- Admin
+- Analytics implementation
+
+Keep Priority 1–4 stable.
+
+====================================
+1. BLOG PAGE `/blog`
+====================================
+
+Create/fix blog listing page.
+
+Show:
+- Page title: “OnChat Blog”
+- Short intro
+- Blog cards
+- Category/tag
+- Date
+- Read more button
+
+Starter blog posts:
+- How to Stay Safe While Chatting Online
+- Anonymous Chat vs Social Media: What’s Different?
+- Best Ways to Start a Conversation Online
+- Why Online Chat Rooms Are Coming Back
+- How Random Chat Works on OnChat
+- Online Chat Safety Tips for Adults
+- How to Make New Friends Online Safely
+- What Makes OnChat Different from Old Chat Sites
+
+====================================
+2. BLOG ARTICLE PAGE `/blog/[slug]`
+====================================
+
+Create/fix individual blog post page.
+
+Each post should include:
+- Title
+- Meta description
+- Date
+- Clean article layout
+- Internal links to Start Chat, Rooms, Safety, FAQ
+- CTA at end: “Start Chatting Now”
+
+Do not keyword stuff.
+
+====================================
+3. ANONYMOUS CHAT PAGE `/anonymous-chat`
+====================================
+
+Create SEO landing page.
+
+Title:
+“Anonymous Chat Online”
+
+Content should explain:
+- Chat without creating an account
+- Guest username flow
+- 18+ rule
+- Safety tools
+- Online users
+- Random chat option
+
+CTA:
+“Start Chatting Now”
+
+CTA behavior:
+- If active session exists, go to `/app`
+- If no session, go to `/`
+
+====================================
+4. FREE CHAT ROOMS PAGE `/free-chat-rooms`
+====================================
+
+Create SEO landing page.
+
+Content should include:
+- Public rooms overview
+- 12 OnChat rooms list
+- Guest access explanation
+- Registered custom rooms
+- Premium custom rooms
+
+Mention rooms:
+- General Chat
+- India Chat
+- Singles Chat
+- USA Chat
+- Europe Chat
+- Asia Chat
+- Gaming Chat
+- Study Chat
+- Movies Chat
+- Sports Chat
+- Deep Talk Chat
+- Fun Chat
+
+CTA:
+“Explore Rooms”
+
+====================================
+5. RANDOM CHAT SEO PAGE `/random-chat`
+====================================
+
+Create SEO landing page.
+
+Content should explain:
+- What Random Chat is
+- How matching works
+- Safety rules
+- No forced random chat after login/start
+- User must intentionally click Random Chat
+
+CTA:
+“Start Random Chat”
+
+CTA behavior:
+- If active session exists, go to `/app` with Random Chat tab if supported
+- If no session, go to `/`
+
+====================================
+6. SEO METADATA
+====================================
+
+Add metadata for all Priority 5 pages:
+- title
+- description
+- canonical if supported
+- Open Graph title/description if supported
+
+Do not use fake metrics.
+
+====================================
+7. INTERNAL LINKS
+====================================
+
+Add internal links between:
+- `/`
+- `/anonymous-chat`
+- `/free-chat-rooms`
+- `/random-chat`
+- `/safety`
+- `/faq`
+- `/blog`
+
+====================================
+8. DESIGN / THEME
+====================================
+
+All Priority 5 pages must support:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile
+
+Use OnChat orange/blue/peach branding.
+
+No:
+- Raw HTML styling
+- Broken spacing
+- Fake user numbers
+- Call/video/phone icons
+- Unreadable text
+
+====================================
+9. TESTING
+====================================
+
+Verify:
+- `/blog` works
+- `/blog/[slug]` works
+- `/anonymous-chat` works
+- `/free-chat-rooms` works
+- `/random-chat` works
+- Metadata exists
+- Internal links work
+- Light/dark mode works
+- Mobile works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+```
+
+```text id="pr6cmd"
+Work only on PRIORITY 6 for OnChat.
+
+Focus only on admin/moderation pages:
+1. Admin dashboard `/admin`
+2. Reports `/admin/reports`
+3. Users `/admin/users`
+4. Rooms admin `/admin/rooms`
+5. Analytics `/admin/analytics`
+6. Moderation `/admin/moderation`
+
+Do not work on:
+- Landing
+- Login/Register
+- Chat UI
+- Rooms user UI
+- Premium billing
+- SEO/blogs
+
+Keep Priority 1–5 stable.
+
+====================================
+1. ADMIN ACCESS RULES
+====================================
+
+Admin pages must be protected.
+
+Only allow:
+- Admin users
+- Moderators if role exists
+
+Block:
+- Guests
+- Registered users
+- Premium users
+
+If unauthorized, redirect to `/app` or show:
+“Access denied.”
+
+Do not expose admin links to normal users.
+
+====================================
+2. ADMIN DASHBOARD `/admin`
+====================================
+
+Show overview cards:
+- Total users
+- Online users
+- Guest sessions
+- Registered users
+- Premium users
+- Reports pending
+- Active rooms
+- Blocked users
+
+Add quick links:
+- Reports
+- Users
+- Rooms
+- Analytics
+- Moderation
+
+====================================
+3. REPORTS `/admin/reports`
+====================================
+
+Show report list:
+- Reported user
+- Reporter
+- Reason
+- Message/context if available
+- Date/time
+- Status: pending, reviewed, actioned
+
+Actions:
+- Mark reviewed
+- Warn user
+- Block user
+- Ban user if supported
+- Dismiss report
+
+====================================
+4. USERS `/admin/users`
+====================================
+
+Show user list:
+- Username
+- User type: guest/registered/premium/admin
+- Email for registered users if allowed
+- Country/state
+- Status
+- Last active
+- Reports count
+
+Actions:
+- View profile
+- Restrict user
+- Ban/unban if supported
+- Remove avatar if unsafe
+- Clear profile content if unsafe
+
+====================================
+5. ROOMS ADMIN `/admin/rooms`
+====================================
+
+Show:
+- Pre-made rooms
+- Custom rooms
+- Creator
+- User type
+- Members count
+- Last active
+- Expiry date
+- Status
+
+Actions:
+- View room
+- Deactivate room
+- Delete/expire custom room
+- Remove unsafe room name/description
+
+====================================
+6. ANALYTICS `/admin/analytics`
+====================================
+
+Show basic admin analytics only if data exists:
+- Daily active users
+- New guests
+- New registrations
+- Messages sent
+- Random chat starts
+- Reports submitted
+- Rooms created
+- Premium clicks
+
+If analytics is not ready, show clean placeholder:
+“Analytics will appear here once tracking is enabled.”
+
+Do not add fake numbers.
+
+====================================
+7. MODERATION `/admin/moderation`
+====================================
+
+Show moderation tools:
+- Blocked messages
+- Link-blocked messages
+- Explicit content warnings
+- Image moderation flags
+- Screenshot blocks
+- Banned/restricted users
+
+Actions:
+- Review
+- Dismiss
+- Restrict user
+- Ban user if supported
+
+====================================
+8. DESIGN / THEME
+====================================
+
+All admin pages must support:
+- Light mode
+- Dark mode
+- Desktop
+- Mobile/tablet
+
+Use OnChat branding.
+
+No:
+- Raw HTML styling
+- Broken tables
+- Unreadable text
+- Call/video/phone icons
+- Fake data unless clearly marked demo
+
+====================================
+9. SECURITY
+====================================
+
+Do not rely only on frontend checks.
+
+Add backend/Supabase role checks where possible.
+
+Rules:
+- Normal users cannot access admin data.
+- Guests cannot access admin routes.
+- Premium users are not admins.
+- Admin APIs/RPCs must check role.
+
+====================================
+10. TESTING
+====================================
+
+Verify:
+- `/admin` protected
+- `/admin/reports` protected
+- `/admin/users` protected
+- `/admin/rooms` protected
+- `/admin/analytics` protected
+- `/admin/moderation` protected
+- Unauthorized users cannot access admin pages
+- Admin user can access pages
+- Light/dark mode works
+- Mobile/tablet layout works
+- No TypeScript errors
+- No hydration errors
+- Production build passes
+```

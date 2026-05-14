@@ -1,0 +1,1302 @@
+FAQ
+
+How do I use OnChat?
+
+Using OnChat is simple. Enter your username, gender identity, age, country, and state, then click “Start Chatting Now.” You can begin as a guest without creating an account. After entering, you can browse online users, start a random chat, or use filters to choose who you want to talk to.
+
+Do I need to register to chat?
+
+No. OnChat lets you start chatting without registration. Registration is optional and may unlock extra features such as profile customization, username claiming, friend/favourite options, and reconnect tools.
+
+How do I message someone online?
+
+After entering OnChat, go to the Online Users section. You will see a live list of active users in the left sidebar. Click on the person you want to chat with, type your message in the chat box, and press Send.
+
+Can I use Random Chat?
+
+Yes. OnChat includes a Random Chat option where you can instantly connect with someone online. You can also skip or move to the next chat when needed.
+
+Is OnChat safe?
+
+OnChat is designed with safety controls such as first-message limits, link blocking, report tools, block options, spam detection, and moderation systems. However, you should still be careful when speaking with strangers online. Do not share private information, passwords, financial details, or exact location.
+
+What happens when I block someone?
+
+When you block a user, they are moved to your Blocked Users list. They should no longer be able to message you, and they will be removed from your normal chat interaction where appropriate. You can unblock users later from the Blocked Users section.
+
+Will my chat history be saved?
+
+Guest chat history is temporary. It remains available only during the current session and may be cleared when you log out, become inactive, or the session expires. Permanent chat history is not saved for guests.
+
+Can I change my username?
+
+Guest users cannot change their username after entering. Username changes are available only after registration or login.
+
+Can I edit my profile?
+
+Yes. Users can update profile details such as gender identity, age, country, state, status message, bio, and optional “More About Me” fields. Some profile features may require registration.
+
+What kind of people use OnChat?
+
+OnChat is for adults who want fast, simple, one-on-one conversations with real people online. Users may come to chat casually, make friends, pass time, or meet someone new from different locations.
+
+Is OnChat for users under 18?
+
+No. OnChat is strictly for users who are 18 years of age or older.
+
+How do I contact support?
+
+If you have a problem, safety concern, account issue, or feedback, contact us at:
+
+[Insert Support Email]
+
+
+
+
+ONCHAT COOKIE POLICY
+
+Last Updated: [Insert Date]
+
+This Cookie Policy explains how OnChat uses cookies and similar technologies when you use our website, chat platform, and related services.
+
+By continuing to use OnChat, you agree to the use of cookies and similar technologies as described in this policy.
+
+1. WHAT ARE COOKIES?
+
+Cookies are small text files stored on your browser or device when you visit a website.
+
+They help websites:
+- Remember your preferences
+- Keep sessions active
+- Improve performance
+- Protect against spam and abuse
+- Understand how users interact with the platform
+
+Some cookies expire when you close your browser, while others may remain for a limited period to remember settings or preferences.
+
+2. WHY ONCHAT USES COOKIES
+
+OnChat uses cookies and similar technologies to:
+
+- Keep chat sessions active
+- Remember temporary guest sessions
+- Save theme preferences (light/dark mode)
+- Maintain login sessions for registered users
+- Detect spam, bots, and abuse
+- Improve platform performance
+- Understand feature usage and traffic patterns
+- Improve moderation and security systems
+- Support analytics and debugging
+- Remember consent settings
+
+Without certain cookies, parts of OnChat may not function properly.
+
+3. TYPES OF COOKIES WE USE
+
+A. Essential Cookies
+
+These cookies are necessary for the platform to work correctly.
+
+They may help:
+- Maintain sessions
+- Keep users logged in
+- Enable chat functionality
+- Protect against abuse or spam
+- Remember security settings
+
+Essential cookies cannot usually be disabled because the platform depends on them.
+
+B. Preference Cookies
+
+These cookies remember user choices, such as:
+- Light or dark mode
+- Language preferences
+- Interface settings
+- Saved filters or UI preferences
+
+C. Analytics Cookies
+
+These cookies help us understand:
+- Which pages users visit
+- Feature usage
+- Platform performance
+- Error tracking
+- General traffic patterns
+
+This information helps improve OnChat’s usability and stability.
+
+D. Advertising Cookies
+
+OnChat may use advertising technologies to support free access to the platform.
+
+Advertising cookies may:
+- Measure ad performance
+- Limit repeated ads
+- Show more relevant advertisements
+- Detect ad abuse or fraud
+
+We do not intentionally sell personally identifying user information to advertisers.
+
+4. SESSION STORAGE AND LOCAL STORAGE
+
+OnChat may also use local browser storage technologies to:
+- Store temporary chat preferences
+- Maintain UI settings
+- Improve session responsiveness
+- Support temporary guest experiences
+
+Some temporary chat-related data may remain only during the active session and may disappear after logout, inactivity, or browser closure.
+
+5. THIRD-PARTY SERVICES
+
+OnChat may use trusted third-party providers for:
+- Analytics
+- Security
+- Infrastructure
+- Authentication
+- Moderation
+- Performance monitoring
+- Advertising
+
+These providers may place limited cookies or similar technologies required for their services to function properly.
+
+Third-party providers may have their own privacy or cookie policies.
+
+6. ANALYTICS AND PERFORMANCE TOOLS
+
+OnChat may use analytics and performance tools to understand:
+- User interactions
+- Platform performance
+- Device/browser compatibility
+- Traffic trends
+- Error reporting
+
+These tools help us improve usability, speed, moderation systems, and overall platform quality.
+
+Analytics data is generally aggregated and not intended to directly identify individual users.
+
+7. SECURITY AND ANTI-SPAM TECHNOLOGIES
+
+To help protect the platform, OnChat may use security-related cookies or verification systems that:
+- Detect suspicious behavior
+- Prevent automated spam
+- Limit abuse
+- Distinguish bots from real users
+- Protect chat systems and infrastructure
+
+These protections are important for maintaining safer conversations and platform stability.
+
+8. MANAGING COOKIES
+
+Most browsers allow you to:
+- View stored cookies
+- Delete cookies
+- Block certain cookies
+- Clear local storage
+- Control cookie permissions
+
+Disabling some cookies may affect parts of OnChat, including:
+- Login sessions
+- Chat functionality
+- Preferences
+- Security systems
+- Moderation tools
+
+Browser settings vary depending on your device and browser.
+
+9. DO NOT TRACK
+
+Some browsers include a “Do Not Track” setting.
+
+Because there is currently no universal standard for handling Do Not Track signals, OnChat may not respond to all such browser requests automatically.
+
+10. CHANGES TO THIS POLICY
+
+We may update this Cookie Policy from time to time to reflect:
+- Platform updates
+- Legal requirements
+- Security improvements
+- Feature changes
+- Advertising or analytics updates
+
+When changes are important, we may provide notice inside the platform.
+
+11. CONTACT
+
+If you have questions about this Cookie Policy or OnChat’s use of cookies and related technologies, contact:
+
+[Insert Support Email]
+
+12. QUICK SUMMARY
+
+OnChat uses cookies to:
+- Keep chat sessions working
+- Save preferences
+- Improve performance
+- Support moderation and anti-spam systems
+- Understand platform usage
+- Support advertising for free access
+
+You can manage cookies through your browser settings, but some platform features may not work correctly if essential cookies are disabled.
+
+
+ONCHAT SAFETY GUIDELINES
+
+Last Updated: [Insert Date]
+
+OnChat is built for fast, anonymous conversations, but safety comes first. These guidelines explain how to protect yourself, how to use OnChat responsibly, and what behavior is not allowed.
+
+OnChat is strictly for users who are 18 years of age or older. If you are under 18, do not use this platform.
+
+1. Quick Safety Rules
+
+Before using OnChat, please remember:
+
+- Do not share your real name, address, phone number, school, workplace, passwords, financial details, or private documents.
+- Do not click suspicious links.
+- Do not send money or gifts to anyone you meet online.
+- Do not move conversations to another platform unless you fully trust the person.
+- Do not send or request nude, sexual, illegal, violent, hateful, or abusive content.
+- Use Block and Report if someone makes you uncomfortable.
+
+2. Anonymous Chat Safety
+
+OnChat allows users to chat without mandatory registration. This helps people start conversations quickly, but it also means you should be careful.
+
+People online may not always be who they say they are. Treat every new chat as a conversation with a stranger.
+
+Avoid sharing:
+- Full legal name
+- Exact location
+- Personal social media accounts
+- Payment information
+- Private photos
+- ID documents
+- Family details
+- Work or school details
+
+3. Links and Phishing
+
+Be careful with links shared online. Scammers may use links to steal accounts, install malware, or collect private information.
+
+OnChat may block links in chat to reduce spam and phishing risk.
+
+Never enter your OnChat password, email, or personal information on a page you do not trust.
+
+4. Password Safety
+
+If you create an OnChat account:
+
+- Use a strong password.
+- Do not reuse passwords from other websites.
+- Do not share your password with anyone.
+- Log out when using a shared or public device.
+- Change your password if you think someone else has access.
+
+5. Private Messages
+
+Be cautious when chatting with strangers.
+
+Warning signs include:
+- Asking for money
+- Asking for private photos
+- Asking to move quickly to another app
+- Pressuring you to meet
+- Asking for personal details
+- Sending repeated messages
+- Making threats or sexual comments
+
+Block and report users who behave this way.
+
+6. Meeting People Offline
+
+OnChat is designed for online conversations. We do not recommend meeting people in person based only on an anonymous chat.
+
+If you ever decide to meet someone:
+- Tell someone you trust.
+- Meet only in a public place.
+- Do not go alone if you feel unsure.
+- Do not share your home address.
+- Leave immediately if anything feels wrong.
+
+Your safety matters more than continuing any conversation.
+
+7. Content Rules
+
+Do not use OnChat to send, request, promote, or encourage:
+
+- Sexual content involving minors
+- Nude or explicit images
+- Harassment or threats
+- Hate speech
+- Violent content
+- Illegal activity
+- Scams or fraud
+- Spam or repeated messages
+- Impersonation
+- Self-harm encouragement
+- Malware, phishing, or harmful links
+
+Violations may lead to warnings, restrictions, shadow bans, account removal, or permanent bans.
+
+8. Moderation Tools
+
+OnChat may use automated moderation, AI-based checks, manual review, and user reports to help reduce unsafe behavior.
+
+Our safety systems may:
+- Block certain messages before delivery
+- Stop links from being sent
+- Limit first messages
+- Detect spam patterns
+- Restrict suspicious users
+- Review reported accounts
+- Remove users from chats
+
+No moderation system is perfect, so users should still stay alert.
+
+9. Blocking and Reporting
+
+If someone makes you uncomfortable, you can:
+
+- Leave the chat
+- Block the user
+- Report the user
+- Move to the next chat
+
+When you block someone, they should no longer be able to message you.
+
+Reports help us identify abuse, spam, unsafe behavior, and rule violations.
+
+10. Parents and Guardians
+
+OnChat is not for users under 18.
+
+Parents and guardians should take steps to prevent minors from accessing adult chat platforms.
+
+Helpful steps include:
+- Use parental control tools
+- Keep devices in shared spaces
+- Talk regularly about online safety
+- Review browser history and app usage where appropriate
+- Teach children not to share personal information online
+- Set screen time and device limits
+
+If you believe a minor is using OnChat, please contact us.
+
+11. Protecting Your Privacy
+
+Use a username that does not reveal your real identity.
+
+Good usernames:
+- Do not include your full name
+- Do not include your phone number
+- Do not include your exact location
+- Do not include sexual or offensive language
+
+Remember: anonymous does not mean risk-free. Be careful with what you share.
+
+12. If Something Feels Wrong
+
+Trust your instincts.
+
+If a user pressures you, scares you, threatens you, asks for private information, or makes you uncomfortable:
+
+- Stop replying
+- Leave the chat
+- Block the user
+- Report the user
+- Contact support if needed
+
+13. Emergency Situations
+
+OnChat is not an emergency service.
+
+If you or someone else is in immediate danger, contact local emergency services or a trusted person nearby.
+
+14. Contact
+
+For safety concerns, reports, or questions, contact:
+
+[Insert Support Email]
+
+15. Summary
+
+OnChat is for adults aged 18+ only.
+Do not share sensitive personal information.
+Do not click suspicious links.
+Do not send money to strangers.
+Use Block and Report when needed.
+Keep conversations respectful, legal, and safe.
+
+ONCHAT SAFETY GUIDELINES
+
+Last Updated: [Insert Date]
+
+OnChat is built for fast, anonymous conversations, but safety comes first. These guidelines explain how to protect yourself, how to use OnChat responsibly, and what behavior is not allowed.
+
+OnChat is strictly for users who are 18 years of age or older. If you are under 18, do not use this platform.
+
+1. Quick Safety Rules
+
+Before using OnChat, please remember:
+
+- Do not share your real name, address, phone number, school, workplace, passwords, financial details, or private documents.
+- Do not click suspicious links.
+- Do not send money or gifts to anyone you meet online.
+- Do not move conversations to another platform unless you fully trust the person.
+- Do not send or request nude, sexual, illegal, violent, hateful, or abusive content.
+- Use Block and Report if someone makes you uncomfortable.
+
+2. Anonymous Chat Safety
+
+OnChat allows users to chat without mandatory registration. This helps people start conversations quickly, but it also means you should be careful.
+
+People online may not always be who they say they are. Treat every new chat as a conversation with a stranger.
+
+Avoid sharing:
+- Full legal name
+- Exact location
+- Personal social media accounts
+- Payment information
+- Private photos
+- ID documents
+- Family details
+- Work or school details
+
+3. Links and Phishing
+
+Be careful with links shared online. Scammers may use links to steal accounts, install malware, or collect private information.
+
+OnChat may block links in chat to reduce spam and phishing risk.
+
+Never enter your OnChat password, email, or personal information on a page you do not trust.
+
+4. Password Safety
+
+If you create an OnChat account:
+
+- Use a strong password.
+- Do not reuse passwords from other websites.
+- Do not share your password with anyone.
+- Log out when using a shared or public device.
+- Change your password if you think someone else has access.
+
+5. Private Messages
+
+Be cautious when chatting with strangers.
+
+Warning signs include:
+- Asking for money
+- Asking for private photos
+- Asking to move quickly to another app
+- Pressuring you to meet
+- Asking for personal details
+- Sending repeated messages
+- Making threats or sexual comments
+
+Block and report users who behave this way.
+
+6. Meeting People Offline
+
+OnChat is designed for online conversations. We do not recommend meeting people in person based only on an anonymous chat.
+
+If you ever decide to meet someone:
+- Tell someone you trust.
+- Meet only in a public place.
+- Do not go alone if you feel unsure.
+- Do not share your home address.
+- Leave immediately if anything feels wrong.
+
+Your safety matters more than continuing any conversation.
+
+7. Content Rules
+
+Do not use OnChat to send, request, promote, or encourage:
+
+- Sexual content involving minors
+- Nude or explicit images
+- Harassment or threats
+- Hate speech
+- Violent content
+- Illegal activity
+- Scams or fraud
+- Spam or repeated messages
+- Impersonation
+- Self-harm encouragement
+- Malware, phishing, or harmful links
+
+Violations may lead to warnings, restrictions, shadow bans, account removal, or permanent bans.
+
+8. Moderation Tools
+
+OnChat may use automated moderation, AI-based checks, manual review, and user reports to help reduce unsafe behavior.
+
+Our safety systems may:
+- Block certain messages before delivery
+- Stop links from being sent
+- Limit first messages
+- Detect spam patterns
+- Restrict suspicious users
+- Review reported accounts
+- Remove users from chats
+
+No moderation system is perfect, so users should still stay alert.
+
+9. Blocking and Reporting
+
+If someone makes you uncomfortable, you can:
+
+- Leave the chat
+- Block the user
+- Report the user
+- Move to the next chat
+
+When you block someone, they should no longer be able to message you.
+
+Reports help us identify abuse, spam, unsafe behavior, and rule violations.
+
+10. Parents and Guardians
+
+OnChat is not for users under 18.
+
+Parents and guardians should take steps to prevent minors from accessing adult chat platforms.
+
+Helpful steps include:
+- Use parental control tools
+- Keep devices in shared spaces
+- Talk regularly about online safety
+- Review browser history and app usage where appropriate
+- Teach children not to share personal information online
+- Set screen time and device limits
+
+If you believe a minor is using OnChat, please contact us.
+
+11. Protecting Your Privacy
+
+Use a username that does not reveal your real identity.
+
+Good usernames:
+- Do not include your full name
+- Do not include your phone number
+- Do not include your exact location
+- Do not include sexual or offensive language
+
+Remember: anonymous does not mean risk-free. Be careful with what you share.
+
+12. If Something Feels Wrong
+
+Trust your instincts.
+
+If a user pressures you, scares you, threatens you, asks for private information, or makes you uncomfortable:
+
+- Stop replying
+- Leave the chat
+- Block the user
+- Report the user
+- Contact support if needed
+
+13. Emergency Situations
+
+OnChat is not an emergency service.
+
+If you or someone else is in immediate danger, contact local emergency services or a trusted person nearby.
+
+14. Contact
+
+For safety concerns, reports, or questions, contact:
+
+[Insert Support Email]
+
+15. Summary
+
+OnChat is for adults aged 18+ only.
+Do not share sensitive personal information.
+Do not click suspicious links.
+Do not send money to strangers.
+Use Block and Report when needed.
+Keep conversations respectful, legal, and safe.
+
+
+ONCHAT PRIVACY POLICY
+
+Last Updated: [Insert Date]
+
+This Privacy Policy explains how OnChat collects, uses, stores, protects, and manages information when you use our website, chat features, profiles, messaging tools, and related services (“OnChat”, “we”, “our”, or “us”).
+
+Please read this Privacy Policy carefully before using OnChat.
+
+By accessing or using OnChat, you agree to the practices described in this Privacy Policy.
+
+1. ABOUT ONCHAT
+
+OnChat is a real-time social chat platform designed for fast anonymous conversations, live online interaction, optional accounts, and one-on-one chat experiences.
+
+Users may browse and use parts of the platform as guests or choose to create registered accounts for additional features.
+
+2. INFORMATION WE COLLECT
+
+We collect only the information reasonably necessary to operate, secure, improve, and moderate the platform.
+
+2.1 Information You Provide
+
+Depending on how you use OnChat, we may collect:
+
+Guest or profile information:
+- Username
+- Gender identity
+- Age
+- Country
+- State/region
+- Profile status
+- Bio/About Me details
+- Optional profile preferences
+- Uploaded profile image/avatar
+- Messages sent through the platform
+- Reports or support requests
+
+Registered account information:
+- Email address
+- Password (encrypted/hashed)
+- Authentication details
+- Profile settings
+- Friends/favourites data
+- Account preferences
+
+2.2 Automatically Collected Information
+
+When you use OnChat, we may automatically collect:
+- IP address
+- Browser type
+- Device type
+- Operating system
+- Session activity
+- Pages visited
+- Interaction timestamps
+- Approximate region/location
+- Performance and error logs
+- Security and moderation signals
+
+We may also collect temporary technical data used for:
+- Spam prevention
+- Session management
+- Moderation systems
+- Fraud detection
+- Abuse prevention
+- Platform stability
+
+2.3 Cookies and Local Storage
+
+OnChat may use cookies, local storage, or similar technologies to:
+- Keep users logged in
+- Maintain temporary sessions
+- Save interface preferences
+- Support moderation/security systems
+- Improve platform performance
+- Remember dark/light mode settings
+
+You may disable cookies in your browser, but some parts of OnChat may not function properly.
+
+3. HOW WE USE INFORMATION
+
+We use collected information to:
+- Operate the platform
+- Connect users in chat
+- Maintain active sessions
+- Display profiles and online users
+- Moderate conversations
+- Detect spam and abuse
+- Enforce platform rules
+- Improve platform performance
+- Respond to support requests
+- Secure the platform
+- Develop new features
+- Analyze usage trends
+
+We do not use your private information to personally identify you publicly beyond the profile details you intentionally choose to display.
+
+4. GUEST CHATS AND TEMPORARY DATA
+
+OnChat is designed around temporary and session-based interaction.
+
+Guest chats:
+- May not be permanently stored
+- May disappear after inactivity
+- May be cleared after logout/session expiry
+- May expire automatically after inactivity periods
+
+Some temporary data may still be retained briefly for:
+- Security
+- Abuse prevention
+- Moderation review
+- Legal compliance
+- Technical troubleshooting
+
+5. MODERATION AND SAFETY
+
+OnChat may use automated systems, AI moderation tools, manual review, and user reports to help keep the platform safer.
+
+Moderation systems may analyze:
+- Spam-like behavior
+- Repeated messaging
+- Harmful content
+- Links
+- Reports
+- Suspicious activity patterns
+
+Actions may include:
+- Blocking messages
+- Limiting features
+- Temporary restrictions
+- Shadow bans
+- Account or session bans
+
+We do not guarantee that all harmful behavior will be detected or prevented.
+
+6. USER CONTENT
+
+Messages, profile content, uploads, avatars, bios, and other materials shared on OnChat remain your responsibility.
+
+You grant OnChat permission to:
+- Process
+- Store temporarily
+- Display
+- Moderate
+- Transmit
+- Remove
+
+your content when necessary to operate and protect the platform.
+
+OnChat does not claim ownership of your content.
+
+7. PROFILE VISIBILITY
+
+Certain information may be visible to other users, including:
+- Username
+- Age
+- Country/state
+- Profile avatar
+- Bio/About Me
+- Status message
+- Optional profile details
+
+You control what optional profile information you choose to add.
+
+Do not share sensitive personal information publicly.
+
+8. BLOCKING AND REPORTING
+
+Users can block or report other users.
+
+When blocked:
+- A user may lose access to message the blocker
+- Active chat visibility may be restricted
+- The blocker may no longer see the blocked user normally
+
+Reports may be reviewed manually or automatically.
+
+9. THIRD-PARTY SERVICES
+
+OnChat may use trusted third-party providers for:
+- Hosting
+- Authentication
+- Analytics
+- Moderation
+- Infrastructure
+- Error monitoring
+- Cloud storage
+- Security tools
+
+These providers may process information only as necessary to provide their services.
+
+10. ADVERTISING
+
+OnChat may display advertisements to support free access to the platform.
+
+Advertising providers may use limited technical information such as:
+- Device type
+- Browser type
+- Approximate region
+- General usage activity
+
+We do not intentionally sell personally identifying user data to advertisers.
+
+11. SECURITY
+
+We use reasonable technical and organizational safeguards to help protect user information, including:
+- Encrypted connections (HTTPS/SSL)
+- Access controls
+- Authentication systems
+- Moderation tools
+- Rate limits
+- Security monitoring
+
+However, no online platform can guarantee absolute security.
+
+You are responsible for protecting your own device, password, and personal information.
+
+12. CHILDREN’S PRIVACY
+
+OnChat is strictly intended for adults aged 18 and older.
+
+We do not knowingly allow users under 18 to use the platform.
+
+If we discover underage usage, we may remove accounts, sessions, chats, or related information.
+
+13. YOUR RIGHTS
+
+Depending on your location and applicable laws, you may have rights to:
+- Access your information
+- Correct profile information
+- Request deletion
+- Restrict processing
+- Withdraw consent
+- Export account data
+- Object to certain uses
+
+Requests may require identity verification.
+
+14. ACCOUNT DELETION
+
+Registered users may request account deletion.
+
+Deleting an account may remove:
+- Profile information
+- Saved settings
+- Friends/favourites
+- Uploaded avatars
+- Associated account data
+
+Certain information may still be retained temporarily for:
+- Security
+- Fraud prevention
+- Legal compliance
+- Enforcement purposes
+
+15. INTERNATIONAL ACCESS
+
+OnChat may operate through infrastructure located in multiple countries.
+
+By using OnChat, you understand that information may be processed or stored outside your local jurisdiction.
+
+16. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time.
+
+When important changes are made, we may:
+- Update the “Last Updated” date
+- Display notices inside the platform
+- Request renewed consent where legally required
+
+Continued use of OnChat after updates means you accept the revised Privacy Policy.
+
+17. CONTACT
+
+For privacy questions, support requests, moderation concerns, or data-related inquiries, contact:
+
+[Insert Support Email]
+
+18. QUICK SUMMARY
+
+- OnChat is for users aged 18+ only.
+- Guest chats are temporary.
+- We collect limited information needed to run and protect the platform.
+- We use moderation systems to reduce spam and abuse.
+- You control most optional profile information.
+- Blocking/reporting tools are available.
+- We do not guarantee complete anonymity or absolute security.
+- Use OnChat responsibly and avoid sharing sensitive personal information.
+
+
+
+
+ONCHAT SAFETY GUIDELINES
+
+Last Updated: [Insert Date]
+
+OnChat is built for fast, anonymous conversations, but safety comes first. These guidelines explain how to protect yourself, how to use OnChat responsibly, and what behavior is not allowed.
+
+OnChat is strictly for users who are 18 years of age or older. If you are under 18, do not use this platform.
+
+1. Quick Safety Rules
+
+Before using OnChat, please remember:
+
+- Do not share your real name, address, phone number, school, workplace, passwords, financial details, or private documents.
+- Do not click suspicious links.
+- Do not send money or gifts to anyone you meet online.
+- Do not move conversations to another platform unless you fully trust the person.
+- Do not send or request nude, sexual, illegal, violent, hateful, or abusive content.
+- Use Block and Report if someone makes you uncomfortable.
+
+2. Anonymous Chat Safety
+
+OnChat allows users to chat without mandatory registration. This helps people start conversations quickly, but it also means you should be careful.
+
+People online may not always be who they say they are. Treat every new chat as a conversation with a stranger.
+
+Avoid sharing:
+- Full legal name
+- Exact location
+- Personal social media accounts
+- Payment information
+- Private photos
+- ID documents
+- Family details
+- Work or school details
+
+3. Links and Phishing
+
+Be careful with links shared online. Scammers may use links to steal accounts, install malware, or collect private information.
+
+OnChat may block links in chat to reduce spam and phishing risk.
+
+Never enter your OnChat password, email, or personal information on a page you do not trust.
+
+4. Password Safety
+
+If you create an OnChat account:
+
+- Use a strong password.
+- Do not reuse passwords from other websites.
+- Do not share your password with anyone.
+- Log out when using a shared or public device.
+- Change your password if you think someone else has access.
+
+5. Private Messages
+
+Be cautious when chatting with strangers.
+
+Warning signs include:
+- Asking for money
+- Asking for private photos
+- Asking to move quickly to another app
+- Pressuring you to meet
+- Asking for personal details
+- Sending repeated messages
+- Making threats or sexual comments
+
+Block and report users who behave this way.
+
+6. Meeting People Offline
+
+OnChat is designed for online conversations. We do not recommend meeting people in person based only on an anonymous chat.
+
+If you ever decide to meet someone:
+- Tell someone you trust.
+- Meet only in a public place.
+- Do not go alone if you feel unsure.
+- Do not share your home address.
+- Leave immediately if anything feels wrong.
+
+Your safety matters more than continuing any conversation.
+
+7. Content Rules
+
+Do not use OnChat to send, request, promote, or encourage:
+
+- Sexual content involving minors
+- Nude or explicit images
+- Harassment or threats
+- Hate speech
+- Violent content
+- Illegal activity
+- Scams or fraud
+- Spam or repeated messages
+- Impersonation
+- Self-harm encouragement
+- Malware, phishing, or harmful links
+
+Violations may lead to warnings, restrictions, shadow bans, account removal, or permanent bans.
+
+8. Moderation Tools
+
+OnChat may use automated moderation, AI-based checks, manual review, and user reports to help reduce unsafe behavior.
+
+Our safety systems may:
+- Block certain messages before delivery
+- Stop links from being sent
+- Limit first messages
+- Detect spam patterns
+- Restrict suspicious users
+- Review reported accounts
+- Remove users from chats
+
+No moderation system is perfect, so users should still stay alert.
+
+9. Blocking and Reporting
+
+If someone makes you uncomfortable, you can:
+
+- Leave the chat
+- Block the user
+- Report the user
+- Move to the next chat
+
+When you block someone, they should no longer be able to message you.
+
+Reports help us identify abuse, spam, unsafe behavior, and rule violations.
+
+10. Parents and Guardians
+
+OnChat is not for users under 18.
+
+Parents and guardians should take steps to prevent minors from accessing adult chat platforms.
+
+Helpful steps include:
+- Use parental control tools
+- Keep devices in shared spaces
+- Talk regularly about online safety
+- Review browser history and app usage where appropriate
+- Teach children not to share personal information online
+- Set screen time and device limits
+
+If you believe a minor is using OnChat, please contact us.
+
+11. Protecting Your Privacy
+
+Use a username that does not reveal your real identity.
+
+Good usernames:
+- Do not include your full name
+- Do not include your phone number
+- Do not include your exact location
+- Do not include sexual or offensive language
+
+Remember: anonymous does not mean risk-free. Be careful with what you share.
+
+12. If Something Feels Wrong
+
+Trust your instincts.
+
+If a user pressures you, scares you, threatens you, asks for private information, or makes you uncomfortable:
+
+- Stop replying
+- Leave the chat
+- Block the user
+- Report the user
+- Contact support if needed
+
+13. Emergency Situations
+
+OnChat is not an emergency service.
+
+If you or someone else is in immediate danger, contact local emergency services or a trusted person nearby.
+
+14. Contact
+
+For safety concerns, reports, or questions, contact:
+
+[Insert Support Email]
+
+15. Summary
+
+OnChat is for adults aged 18+ only.
+Do not share sensitive personal information.
+Do not click suspicious links.
+Do not send money to strangers.
+Use Block and Report when needed.
+Keep conversations respectful, legal, and safe.
+
+ONCHAT TERMS OF SERVICE
+
+Last Updated: [Insert Date]
+
+Welcome to OnChat. These Terms of Service explain the rules for using our website, chat features, profiles, messaging tools, and related services.
+
+By accessing or using OnChat, you agree to these Terms, our Privacy Policy, and our Safety Guidelines. If you do not agree, please do not use OnChat.
+
+1. About OnChat
+
+OnChat is a real-time online chat platform designed for fast, simple, and anonymous conversations. Users can enter as guests without creating an account, browse online users, start one-on-one chats, use random chat, and optionally register for additional features.
+
+OnChat is built to make conversations easier, but users are responsible for how they behave on the platform.
+
+2. Age Requirement
+
+You must be at least 18 years old to use OnChat.
+
+By using OnChat, you confirm that:
+- You are 18 years of age or older.
+- You will not use the platform to contact, exploit, request information from, or engage in inappropriate communication with minors.
+- You understand that OnChat is not intended for children or teenagers.
+
+We may suspend or remove access if we believe a user is under 18.
+
+3. Guest Use and Optional Accounts
+
+OnChat allows users to chat as guests without registration.
+
+Guest users may access basic chat features, but guest sessions are temporary. Guest usernames, chat activity, and temporary chat history may be cleared when the user logs out, closes the session, becomes inactive, or when the chat expires.
+
+Registered users may receive additional features, such as profile customization, username claiming, reconnect tools, friend/favourite features, or other account-based benefits.
+
+You are responsible for keeping your login details private. Do not share, sell, or transfer your account to another person.
+
+4. User Conduct
+
+You agree to use OnChat respectfully and lawfully.
+
+You must not:
+- Harass, threaten, abuse, or intimidate other users.
+- Share hateful, discriminatory, violent, or degrading content.
+- Send sexually explicit messages, especially as first messages.
+- Send nude, sexual, exploitative, or harmful images.
+- Spam users with repeated or automated messages.
+- Send links where links are blocked.
+- Impersonate another person or misrepresent yourself.
+- Use bots, scrapers, scripts, automation, or fake traffic tools.
+- Attempt to bypass moderation, bans, rate limits, or security systems.
+- Upload viruses, malicious files, or harmful code.
+- Use OnChat for scams, fraud, advertising, solicitation, or illegal activity.
+
+OnChat is for real conversations, not abuse, spam, exploitation, or manipulation.
+
+5. Chat Rules
+
+OnChat may apply special chat rules to protect users and reduce spam.
+
+These may include:
+- Limiting the first messages before the other user replies.
+- Blocking links.
+- Blocking spam-like messages.
+- Restricting image sharing until both users engage.
+- Limiting the number of images per chat.
+- Removing chats after inactivity.
+- Showing warnings before chats expire.
+- Clearing temporary messages after session expiry.
+
+Chats are intended to be session-based. Unless otherwise stated, guest chat history is not permanent.
+
+6. Moderation and Enforcement
+
+OnChat may use automated systems, AI-based moderation, manual review, user reports, and safety tools to detect harmful behavior.
+
+If a user violates these Terms, OnChat may take action, including:
+- Blocking a message from being sent.
+- Showing a warning.
+- Temporarily limiting chat access.
+- Removing the user from active chats.
+- Moving a user into another user’s blocked list.
+- Shadow banning spam accounts.
+- Suspending or permanently banning access.
+- Restricting accounts, devices, IP addresses, or sessions.
+
+We may act without prior notice when needed to protect users, prevent spam, or maintain platform safety.
+
+7. Reporting and Blocking
+
+Users may report or block other users.
+
+When you block someone:
+- They may be removed from your active chats.
+- They may no longer appear in your normal interaction list.
+- They should not be able to message you unless unblocked.
+
+Reports may be reviewed by automated or manual systems. Repeated reports may lead to restrictions, but reports alone do not guarantee immediate removal.
+
+8. User Content
+
+You are responsible for anything you type, upload, send, or display on OnChat.
+
+You confirm that you have the right to share any content you submit and that your content does not violate another person’s rights or any law.
+
+OnChat does not claim ownership of your personal content. However, you give OnChat permission to process, display, transmit, moderate, store temporarily, or remove your content as needed to operate and protect the platform.
+
+Because OnChat includes anonymous and real-time interactions, you should not share sensitive personal information with strangers.
+
+9. Profiles and Avatars
+
+Users may create or edit profile details, such as username, age, gender identity, country, state, status, bio, avatar, and optional profile fields.
+
+Guest users may have limited profile editing options. Username changes may be restricted to registered users.
+
+Profile information must not be misleading, abusive, sexual, hateful, or used to impersonate another person.
+
+10. Safety Disclaimer
+
+OnChat provides tools to support safer conversations, but we cannot guarantee the behavior, identity, intentions, or accuracy of other users.
+
+You use OnChat at your own discretion. Be careful when speaking with strangers online. Do not share passwords, financial details, private documents, exact address, or sensitive personal information.
+
+11. Service Availability
+
+We aim to keep OnChat available and functional, but we do not guarantee uninterrupted service.
+
+The platform may be unavailable due to maintenance, updates, technical issues, security events, outages, or third-party service failures.
+
+12. Intellectual Property
+
+The OnChat name, logo, design, interface, features, text, graphics, software, and platform structure belong to OnChat or its licensors.
+
+You may not copy, reproduce, modify, sell, scrape, reverse engineer, or reuse OnChat’s platform materials without written permission.
+
+13. Third-Party Links and Services
+
+OnChat may contain links to third-party websites or use third-party services for hosting, analytics, payments, authentication, moderation, or other functionality.
+
+We are not responsible for third-party websites, services, content, policies, or actions.
+
+14. Account Suspension or Termination
+
+We may suspend, restrict, or terminate access if:
+- You violate these Terms.
+- You abuse other users.
+- You attempt to bypass moderation.
+- You spam, scam, or exploit the platform.
+- Your activity creates risk for OnChat or its users.
+- We are required to act for legal, safety, or security reasons.
+
+If your account or session is removed, you may lose access to profile data, chats, preferences, or other account features.
+
+15. Limitation of Liability
+
+OnChat is provided on an “as available” and “as is” basis.
+
+To the fullest extent allowed by law, OnChat is not responsible for:
+- User behavior.
+- Content shared by users.
+- Lost chats or deleted messages.
+- Service interruptions.
+- Technical errors.
+- Unauthorized access caused by user actions.
+- Emotional, financial, reputational, or other harm resulting from interactions with other users.
+
+16. Indemnity
+
+You agree to protect OnChat, its owners, team members, partners, service providers, and affiliates from claims, losses, damages, costs, or legal expenses resulting from:
+- Your use of OnChat.
+- Your content.
+- Your violation of these Terms.
+- Your violation of another person’s rights.
+- Your unlawful or abusive behavior.
+
+17. Changes to These Terms
+
+We may update these Terms from time to time. When we make changes, we may update the “Last Updated” date or provide notice where appropriate.
+
+If you continue using OnChat after changes are posted, you accept the updated Terms.
+
+18. Governing Law
+
+These Terms will be governed by the laws of [Insert Jurisdiction].
+
+Any disputes will be handled in the courts or dispute resolution process located in [Insert Location], unless applicable law requires otherwise.
+
+19. Contact
+
+If you have questions about these Terms, safety, moderation, account access, or reports, contact us at:
+
+[Insert Support Email]
+
+20. Short Summary
+
+OnChat is for users aged 18+.
+Be respectful.
+Do not spam, harass, exploit, impersonate, or share illegal/sexual/harmful content.
+Guest chats are temporary.
+We may moderate, restrict, suspend, or ban users who break the rules.
+Use OnChat responsibly and protect your privacy.
+
+
+
+
